@@ -1,4 +1,4 @@
-# Acordeon - Projeto de Exercício
+# Projeto Acordeon
 
 ## Visão Geral
 Este projeto é um acordeon dinâmico e responsivo construído como exercício de um curso, baseado em um design fornecido no Figma. O objetivo do desafio era replicar o design utilizando HTML, CSS e JavaScript. Para aperfeiçoamento, adicionei efeitos de transição suave, tornando o projeto mais harmônico e moderno.
@@ -16,3 +16,4 @@ Este projeto é um acordeon dinâmico e responsivo construído como exercício d
 
 ## Preview
 ![GIF de Demonstração](./src/data/Accordion.gif)
+![>> Acesse o Preview <<](https://guilherme-dev15.github.io/project-accordion/)
