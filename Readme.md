@@ -16,4 +16,4 @@ Este projeto é um acordeon dinâmico e responsivo construído como exercício d
 
 ## Preview
 ![GIF de Demonstração](./src/data/Accordion.gif)
-[>> Acesse o Preview <<](https://guilherme-dev15.github.io/project-accordion/)
+## [>> Acesse o Preview <<](https://guilherme-dev15.github.io/project-accordion/)
